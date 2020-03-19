@@ -1,1 +1,2 @@
-prinf("hellow world)
+print("hellow world");
+print("Tell your world");
